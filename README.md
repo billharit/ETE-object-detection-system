@@ -2,6 +2,10 @@
 
 This project focuses on creating a End to end object detection system pipeline. in this repositories, I focused on creating face object detection model, but it can be used just for any object detection.
 
+## Checkout the demo on my website:
+
+https://www.billharit.com/projects/object-detection
+
 ## Library Used
 
 - **TensorFlow**: Python Deep Learning Framework. We will use VGG16 to build the model with keras functional API.
